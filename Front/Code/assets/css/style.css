@@ -77,11 +77,15 @@ body {
     line-height: 90%;
     margin-left: 8%;
     margin-top: 6%;
-
 }
 
 .barra-01 {
     margin-left: 8.35%;
     position: absolute;
+}
 
+.bottomclickhere {
+    margin-top: 5%;
+    margin-left: 8.35%;
+    max-width: 20%;
 }
