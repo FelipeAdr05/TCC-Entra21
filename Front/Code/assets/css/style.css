@@ -26,7 +26,7 @@ body {
 }
 
 #logo {
-    max-width: 6.5%;
+    max-width: 7.5%;
     margin-left: 5%;
 }
 
@@ -63,3 +63,19 @@ body {
     }
 }
 
+.menu {
+    margin-right: 7%;
+}
+
+.Titulo_inicial {
+    font-family: 'Lato';
+    font-size: 400%;
+    max-width: 40%;
+    font-weight: 100;
+    color: #fff;
+    letter-spacing: normal;
+    line-height: 90%;
+    margin-left: 8%;
+    margin-top: 10%;
+
+}
