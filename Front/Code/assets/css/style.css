@@ -27,6 +27,7 @@ body {
 
 #logo {
     max-width: 6.5%;
+    max-width: 7.5%;
     margin-left: 5%;
 }
 
@@ -63,6 +64,7 @@ body {
     }
 }
 
+
     /* width: 90%;
     max-width: 870px;
     margin: auto;
@@ -74,3 +76,36 @@ body {
     line-height: 58px;
     font-weight: 700;
     color: black; */
+    
+.menu {
+    margin-right: 7%;
+}
+
+.Titulo_inicial {
+    font-family: 'Lato';
+    font-size: 400%;
+    max-width: 40%;
+    font-weight: 100;
+    color: #fff;
+    letter-spacing: normal;
+    line-height: 90%;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+
+.barra-01 {
+    margin-left: 8.35%;
+    position: absolute;
+}
+
+.bottomclickhere {
+    margin-top: 5%;
+    margin-left: 8.35%;
+    max-width: 20%;
+}
+
+.formacentro {
+    max-width: 101%;
+    right: 10px;
+    position: relative;
+}
