@@ -89,3 +89,9 @@ body {
     margin-left: 8.35%;
     max-width: 20%;
 }
+
+.formacentro {
+    max-width: 101%;
+    right: 10px;
+    position: relative;
+    
